@@ -70,4 +70,6 @@ target/
 docs/sources/examples/.Rhistory
 
 # PyCharm
-.idea/
+.idea
+
+analyze-oj2-tpot-mdr.ipynb
